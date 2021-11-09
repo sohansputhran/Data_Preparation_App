@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn import datasets
 
 # Page Layout and it expands to full width
-st.set_page_config(page_title='Determining Feature Importance - Machine Learning App',
+st.set_page_config(page_title='Data Preparation and Exploratory Data Analysis App',
                    layout='wide')
 
 
